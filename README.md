@@ -44,3 +44,7 @@ The goal is to understand how regression fits data, evaluates accuracy, and visu
 ---
 
 ### 🧰 Libraries Used
+          pandas
+          numpy
+          matplotlib
+          scikit-learn
